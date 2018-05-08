@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>pages/Page1.qml</file>
+        <file>pages/Page2.qml</file>
+        <file>pages/Page3.qml</file>
+        <file>pages/Page4.qml</file>
+        <file>pages/Page5.qml</file>
+        <file>pages/Page6.qml</file>
+        <file>pages/Page7.qml</file>
+        <file>pages/Page8.qml</file>
+        <file>pages/Page9.qml</file>
+        <file>pages/Page10.qml</file>
+        <file>pages/Page11.qml</file>
+        <file>pages/Page12.qml</file>
+        <file>pages/Page13.qml</file>
+        <file>pages/Page14.qml</file>
+        <file>pages/Page15.qml</file>
+        <file>pages/Page16.qml</file>
+        <file>pages/Page17.qml</file>
+        <file>pages/Page18.qml</file>
+        <file>pages/Page19.qml</file>
+        <file>pages/Page20.qml</file>
+    </qresource>
+</RCC>
